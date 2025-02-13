@@ -28,7 +28,18 @@ I am a **Data Analyst** with **3+ years of experience** in leveraging data-drive
 - **Development Methodologies:** Agile, Waterfall, SDLC  
 
 ---
+## 💡 Skills & Tools  
 
+| **Category**            | **Skills** |
+|----------------|----------------------------------------------------------|
+| **Programming** | Python, R, SQL, VBA (Excel Macros) |
+| **Data Wrangling** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
+| **Databases** | MySQL, PostgreSQL, SQL Server, Oracle, MongoDB |
+| **Machine Learning** | Regression, Classification, Clustering, NLP, Time Series |
+| **Visualization** | Tableau, Power BI, QlikView, SAP Analytics Cloud |
+| **Cloud & Big Data** | Azure, AWS, Google BigQuery, Databricks, Hadoop |
+
+---
 
 
 ## 📈 Experience  
