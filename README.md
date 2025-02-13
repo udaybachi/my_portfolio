@@ -19,17 +19,6 @@ I am a **Data Analyst** with **3+ years of experience** in leveraging data-drive
 
 ## 🛠️ Skills & Tools  
 
-- **Programming:** Python, R, SQL, VBA  
-- **Data Manipulation:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn  
-- **Databases:** MySQL, PostgreSQL, SQL Server, Oracle, MongoDB  
-- **Machine Learning:** Regression, Classification, Clustering, NLP, Time Series  
-- **Data Visualization:** Tableau, Power BI, QlikView, SAP Analytics Cloud  
-- **Cloud & Big Data:** Azure, AWS (S3, RDS, Athena), Google BigQuery, Databricks, Hadoop  
-- **Development Methodologies:** Agile, Waterfall, SDLC  
-
----
-## 💡 Skills & Tools  
-
 | **Category**            | **Skills** |
 |----------------|----------------------------------------------------------|
 | **Programming** | Python, R, SQL, VBA (Excel Macros) |
@@ -38,6 +27,7 @@ I am a **Data Analyst** with **3+ years of experience** in leveraging data-drive
 | **Machine Learning** | Regression, Classification, Clustering, NLP, Time Series |
 | **Visualization** | Tableau, Power BI, QlikView, SAP Analytics Cloud |
 | **Cloud & Big Data** | Azure, AWS, Google BigQuery, Databricks, Hadoop |
+
 
 ---
 
