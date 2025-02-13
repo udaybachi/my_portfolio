@@ -1,6 +1,4 @@
-# Uday Kumar Karampudi | Data Analyst
-
-![Profile Image](assets/img/headshot_circle.png)
+![Profile Image](assets/img/Your paragraph text.png)
 
 🔹 **Data Analyst | Python | SQL | Power BI | Machine Learning**  
 📍 Memphis, TN | 📧 [udaykumar.uk9567@gmail.com](mailto:udaykumar.uk9567@gmail.com)  
