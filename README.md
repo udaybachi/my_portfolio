@@ -1,7 +1,8 @@
 ## 📊 About Me  
 I am a **Data Analyst** with **3+ years of experience** in leveraging data-driven insights to enhance business strategies. Proficient in **Python, SQL, Tableau, and Power BI**, I specialize in designing scalable analytics solutions, optimizing databases, and implementing **machine learning models** to solve real-world problems.
 
-📍 Memphis, TN | 📧 [udaykumar.uk9567@gmail.com](mailto:udaykumar.uk9567@gmail.com)  
+📍 Memphis, TN
+📧 [udaykumar.uk9567@gmail.com](mailto:udaykumar.uk9567@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/karampudiudaykumar/) | [GitHub](https://github.com/yourusername)  
 
 
