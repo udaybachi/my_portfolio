@@ -83,6 +83,6 @@ optimization.
 
 📧 **Email:** [udaykumar.uk9567@gmail.com](mailto:udaykumar.uk9567@gmail.com)  
 🔗 **LinkedIn:** [karampudiudaykumar](https://www.linkedin.com/in/karampudiudaykumar/)  
-💻 **GitHub:** [yourusername](https://github.com/yourusername)  
+💻 **GitHub:** [udaybachi](https://github.com/udaybachi)  
 
 ---
