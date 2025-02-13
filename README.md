@@ -64,22 +64,17 @@ optimization.
 
 ## 📂 Portfolio  
 
-### 🔹 **[Sales Data Analysis](portfolio/sales-analysis.md)**
-📌 **Technologies:** Python, Pandas, Matplotlib, SQL  
-- Analyzed **customer purchase behavior** using SQL queries  
-- Created **interactive dashboards** in Power BI  
-- Provided **actionable insights** that increased revenue by **12%**  
-
-### 🔹 **[Credit Card Fraud Detection](portfolio/fraud-detection.md)**
+### 🔹 **[Deep Dictionary Learning and Coding Network (DDLCN) for Image-recognition tasks with Limited data:](portfolio/fraud-detection.md)**
 📌 **Technologies:** Python, Scikit-learn, Power BI  
-- Built a **machine learning model** for fraud detection  
-- Achieved **95% accuracy** using Logistic Regression & Random Forest  
-- Visualized fraud trends using **Tableau & Power BI**  
+- Conducted experiments on five public datasets, utilizing advanced machine learning techniques to improve model performance with limited training data.
+- Demonstrated that DDLCN outperformed traditional dictionary learning methods and achieved results comparable to state-of- the-art CNN-based models.
+- Presented findings through detailed visualizations using Matplotlib and Tableau  
 
-### 🔹 **[Deep Dictionary Learning for Image Recognition](portfolio/ddlcn.md)**
+### 🔹 **[Performance Evaluation of Machine Learning Algorithms for Credit Card Fraud detection:](portfolio/ddlcn.md)**
 📌 **Technologies:** Python, Deep Learning, Matplotlib  
-- Developed **DDLCN model** to enhance image recognition with **limited data**  
-- Outperformed traditional dictionary learning approaches  
+- Utilized Python libraries (Pandas, NumPy, Scikit-learn) to preprocess and analyze large-scale transaction datasets, achieving 95% accuracy in fraud detection. 
+- Applied machine learning algorithms (Logistic Regression, Decision Tree, Random Forest) to predict fraudulent activities. 
+- Developed a comparative analysis dashboard in Power BI to visualize fraud activity trends and present findings 
 
 ---
 
