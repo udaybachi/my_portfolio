@@ -62,7 +62,7 @@ optimization.
 ---
 
 
-## 📂 Portfolio  
+## Projects  
 
 ### 🔹 **[Deep Dictionary Learning and Coding Network (DDLCN) for Image-recognition tasks with Limited data:](portfolio/fraud-detection.md)**
 📌 **Technologies:** Python, Scikit-learn, Power BI  
