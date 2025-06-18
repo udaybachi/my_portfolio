@@ -8,7 +8,7 @@
 
 I am a **Java Full Stack Developer** with 3+ years of experience in designing and building scalable web applications using Java, Spring Boot, React.js, and AWS. I enjoy creating robust back-end systems, responsive front-end interfaces, and deploying cloud-native solutions that solve real-world problems.
 
-📧 [udaykumar.uk9567@gmail.com](mailto:udaykumar.uk9567@gmail.com)  
+📧 [uk.udaykumar9567@gmail.com](mailto:uk.udaykumar9567@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/karampudiudaykumar/) | [GitHub](https://github.com/udaybachi)  
 📍 Memphis, TN
 
