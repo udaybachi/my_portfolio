@@ -16,8 +16,8 @@ I am a **Java Full Stack Developer** with 3+ years of experience in designing an
 
 ## 🎓 Education  
 
-🎓 **Master's in Computer Science** | The University of Memphis *(Expected Dec 2024)*  
-🎓 **Bachelor's in Computer Science Engineering** | Scient Institute of Technology *(Graduated July 2022)*  
+🎓 **Master's in Computer Science** | The University of Memphis  
+🎓 **Bachelor's in Computer Science Engineering** | Jawaharlal Nehru Technological University Hyderabad  
 
 ---
 
@@ -25,12 +25,14 @@ I am a **Java Full Stack Developer** with 3+ years of experience in designing an
 
 | **Category**         | **Skills** |
 |----------------------|------------------------------------------------------------|
-| **Languages**        | Java, JavaScript, Python, SQL |
-| **Frontend**         | React.js, Angular, HTML5, CSS3, Bootstrap |
-| **Backend**          | Spring Boot, Node.js, RESTful APIs |
-| **Databases**        | MySQL, PostgreSQL, Oracle, MongoDB |
-| **DevOps & Cloud**   | AWS (EC2, S3, Lambda), Docker, Jenkins, Terraform |
-| **Tools & Others**   | Git, Maven, Gradle, IntelliJ, VS Code, Jira |
+| **Languages**        | Java (8/11/17), Spring Boot, Spring Security, Spring MVC, Hibernate, JPA, Microservices, Node.js, JavaScript (ES6+), TypeScript, Python, Shell Scripting |
+| **Frontend**         | React.js, Angular, Redux, HTML5, CSS3, Bootstrap, jQuery |
+| **Cloud & DevOps**   | AWS (EC2, S3, RDS, Lambda, ECS, IAM), GCP, Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Ansible, Prometheus, Grafana |
+| **Databases**        | MySQL, PostgreSQL, Oracle, MongoDB, DynamoDB, Redis |
+| **Web & API Technologies**   | RESTful APIs, GraphQL, SOAP, OAuth2, JWT, Apache Tomcat, Nginx, IBM WebSphere, SSL/TLS |
+| **Testing & QA**     | JUnit, Mockito, TestNG, Selenium, Cypress, JMeter | 
+| **Tools & Practices**| Maven, Gradle, Bitbucket, Jira, Confluence, IntelliJ, Eclipse, Agile (Scrum/Kanban) |
+| **Version Control**  | Git, GitHub, GitLab, Bitbucket |
 
 ---
 
@@ -74,4 +76,3 @@ I am a **Java Full Stack Developer** with 3+ years of experience in designing an
 
 ---
 
-💡 *“Code with clarity. Build with purpose.”*
