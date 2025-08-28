@@ -71,7 +71,7 @@ I am a **Java Full Stack Developer** with 3+ years of experience in designing an
 ## 📬 Contact  
 
 📧 **Email:** [uk.udaykumar9567@gmail.com](mailto:uk.udaykumar9567@gmail.com)  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/udayofficial](https://www.linkedin.com/in/udayofficial/))  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/udayofficial](https://www.linkedin.com/in/udayofficial/)
 💻 **GitHub:** [udaybachi](https://github.com/udaybachi)  
 
 ---
